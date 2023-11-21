@@ -1,2 +1,2 @@
-/APK
-/UserSettings
+APK/
+UserSettings/
